@@ -15,6 +15,21 @@ header{
     height: 250px;
 }
 
+.a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 15px 0px 15px 0px;
+    background-color: rgb(90, 150, 80);
+    font-family: sans-serif;
+    width: 200px;
+    margin-left: 20px;
+    margin-top: -40px;
+    margin-bottom: 10px;
+}
+
 .perfil{
     display: flex;
     align-items: center;
